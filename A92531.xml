@@ -1,0 +1,255 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articles and ordinances of warre: for the present expedition of the army of the kingdome of Scotland. By the Committee of Estates, and his Excellence, the Lord Generall of the army.</title>
+            <author>Scotland. Army.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92531</idno>
+            <idno type="STC">Wing S1187</idno>
+            <idno type="STC">Thomason E30_17</idno>
+            <idno type="STC">ESTC R21106</idno>
+            <idno type="EEBO-CITATION">99869795</idno>
+            <idno type="PROQUEST">99869795</idno>
+            <idno type="VID">154546</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92531)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154546)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 6:E30[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Articles and ordinances of warre: for the present expedition of the army of the kingdome of Scotland. By the Committee of Estates, and his Excellence, the Lord Generall of the army.</title>
+                  <author>Scotland. Army.</author>
+                  <author>Leven, Alexander Leslie, Earl of, 1580?-1661.</author>
+                  <author>Scotland. Parliament. Committee of Estates.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed at Edinburg by Evan Tyler, printer to the Kings most Excellent Majesty. And reprinted at London for Robert Bostocke, dwelling at the signe of the Kings-Head in Pauls Church-yard,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The Lord Generall of the Army = Alexander Leslie, Earl of Leven.</note>
+                  <note>Annotation on Thomason copy: the 4 in imprint date is crossed out and altered to 1643; "J 30th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:154546:1"/>
+            <pb facs="tcp:154546:1" rendition="simple:additions"/>
+            <p>ARTICLES <hi>AND</hi> ORDINANCES OF WARRE: For the preſent Expedition of the Army of the Kingdome of SCOTLAND.</p>
+            <p>
+               <hi>By the Committee of Eſtates, and his Ex<g ref="char:EOLhyphen"/>cellence, the Lord Generall of the Army.</hi>
+            </p>
+            <p>Printed at <hi>Edinburg</hi> by <hi>Evan Tyler,</hi> Printer to the Kings moſt Excellent Majeſty. And reprinted at <hi>London</hi> for <hi>Ro<g ref="char:EOLhyphen"/>bert Boſtocke,</hi> dwelling at the Signe of the Kings-Head in Pauls Church-yard. 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="articles">
+            <pb facs="tcp:154546:2"/>
+            <pb n="1" facs="tcp:154546:2"/>
+            <head>Articles &amp; Ordinan<g ref="char:EOLhyphen"/>ces of War, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Hat no man pretend ignorance, and that everie one may know the dutie of his place,<note place="margin">The publi<g ref="char:EOLhyphen"/>ſhing of the Articles &amp; Ordinances of War.</note> that he may do it; The Articles and Ordinances following, are to be publiſhed at the generall Rendezvous in everie Regiment apart, by the Majors of the ſeverall Regiments, and in the preſence of all the Officers. The ſame ſhall afterward be openly read to every Company of Horſe and Foot, and at ſuch times as ſhall be thought moſt convenient by the Lord Generall: and in like manner ſhall be made knowne to ſo many as joyne themſelves to be profeſſed Souldiers in the Army. For this end, everie Colonell and Captaine ſhall provide one of thoſe Books, that hee may have it in readineſſe at all occaſions, and every Souldier ſhall ſolemnly ſweare this following Oath:
+<floatingText xml:lang="eng" type="oath">
+                  <body>
+                     <p>
+                        <note place="margin">The Soul<g ref="char:EOLhyphen"/>diers Oath.</note> I N. N. promiſe and ſweare to be true and faith<g ref="char:EOLhyphen"/>full in this Service, according to the heads ſworn
+<pb n="2" facs="tcp:154546:3"/> by me in the Solemne League and Covenant of the three Kingdomes: To honour and obey my Lord Generall, and all my ſuperiour Officers and Com<g ref="char:EOLhyphen"/>mandrs, and by all meanes to hinder their diſho<g ref="char:EOLhyphen"/>nour and hurt: To obſerve carefully all the Arti<g ref="char:EOLhyphen"/>cles of War and Camp-Diſcipline: never to leave the defence of this Cauſe, nor flee from my Colours ſo long as I can follow them: To be ready to watch<g ref="char:EOLhyphen"/>ing, warding, and working, ſo farre as I have ſtrength: To endure and ſuffer all distreſſes, and to fight manfully to the uttermoſt, as I ſhall anſwer to GOD, and as GOD ſhall help me.</p>
+                  </body>
+               </floatingText>
+            </p>
+            <div n="1" type="article">
+               <head>I.</head>
+               <p>
+                  <note place="margin">Kirk Diſci<g ref="char:EOLhyphen"/>pline.</note>Kirk Diſcipline ſhall be exerciſed, and the ſick cared for in every Regiment, by the particular Elderſhip, or Kirk-Seſſion to be appointed, even as uſeth to be done in every Pariſh in the time of Peace: And that there may be an uniformitie thorow<g ref="char:EOLhyphen"/>out the whole Army in all matters Eccleſiaſticall, there ſhall be a generall Elderſhip, or common Eccleſiaſtick Judicatory, made up of all the Miniſters of the Camp, and of one Elder direct from every particular Regiment, who ſhall alſo judge of Ap<g ref="char:EOLhyphen"/>pellations made unto than from the particular Seſſions or El<g ref="char:EOLhyphen"/>derſhips.</p>
+            </div>
+            <div n="2" type="article">
+               <head>II.</head>
+               <p>
+                  <note place="margin">Councels of War.</note>For deciding of all queſtions, debates and quarrellings that ſhall ariſe betwixt Captains and their Souldiers, or any others of the Army, and for the better obſerving of Camp-Diſcipline, two Courts of juſtice, the one higher, and the other lower, are appoynted, wherein all Judges are ſworne to do juſtice e<g ref="char:EOLhyphen"/>qually: The higher alſo to judge of Appellations to be made
+<pb n="3" facs="tcp:154546:3"/> from the lower Court. And if any man ſhall by word or ge<g ref="char:EOLhyphen"/>ſture ſhew his contempt or miſ-regard, or ſhall fall out in boa<g ref="char:EOLhyphen"/>ſting or braving, while Courts are ſitting, hee ſhall be puniſhed by death. And both theſe Judicatories, as well of the Kirk mat<g ref="char:EOLhyphen"/>ters, as of War, ſhall be ſubject to the Generall Aſſembly, and Committee of Eſtates <hi>reſpective.</hi>
+               </p>
+            </div>
+            <div n="3" type="article">
+               <head>III.</head>
+               <p>Whoſoever ſhall wilfully or careleſly abſent himſelfe from morning and evening Prayers,<note place="margin">Duties to God.</note> or from preaching before and af<g ref="char:EOLhyphen"/>ter-noon on the Lords Day, or other extraordinarie times ap<g ref="char:EOLhyphen"/>poynted for the worſhip of GOD, when the ſigne is given by ſound of Trumpet or Drum, hee ſhall be cenſured and puni<g ref="char:EOLhyphen"/>ſhed for his neglect or contempt, by penaltie, impriſonment, or other puniſhment, as his fault deſerveth.</p>
+               <p>After the warning given, there ſhall be no Market, nor ſel<g ref="char:EOLhyphen"/>ling of Commodities whatſoever, till the Prayers or Preaching be ended, upon the paine of forfeiting the things ſo ſold, and of the impriſoning of the offenders.</p>
+            </div>
+            <div n="4" type="article">
+               <head>IV.</head>
+               <p>Common and ordinary ſwearing and curſing, open propha<g ref="char:EOLhyphen"/>ning of the Lords Day, wronging of his Miniſters, and other Acts of that kind, ſhall not only be puniſhed with loſſe of pay and impriſonmene, but the Tranſgreſſors ſhall make their pub<g ref="char:EOLhyphen"/>like repentance in the midſt of the Congregation, and if they will not be reclaimed, they ſhall with diſgrace be openly caſ<g ref="char:EOLhyphen"/>ſeered and diſcharged, as unworthy of the meaneſt place in the Army.</p>
+            </div>
+            <div n="5" type="article">
+               <head>V.</head>
+               <p>If any ſhall ſpeak irreverently againſt the Kings Majeſtie &amp; his authoritie, or ſhall preſume to offer violence to his Maje<g ref="char:EOLhyphen"/>ſties Perſon, he ſhall be puniſhed as a Traytor.<note place="margin">Duties to the King, Countrey, &amp; Generall.</note> Hee that ſhall ſpeak evill of the Cauſe which wee defend, or of the King<g ref="char:EOLhyphen"/>domes, the Parliaments, Convention of Eſtates, or their Com<g ref="char:EOLhyphen"/>mittees in the defence therof, or ſhall uſe any words to the diſ<g ref="char:EOLhyphen"/>honour of the Lord Generall, he ſhall be puniſhed with death.</p>
+               <pb n="4" facs="tcp:154546:4"/>
+               <p>No man ſhall at his own hand, without warrant of the Com<g ref="char:EOLhyphen"/>mittee, or of my Lord Generall, have, or keep intelligence with the enemy, by ſpeech, letters, ſignes, or any other way, under the pain to be puniſhed as a Traytour. No man ſhall give over any Strength, Magazin, Victuall, &amp;c. Or make any ſuch mo<g ref="char:EOLhyphen"/>tion, but upon extremitie, under the ſame paine. No man ſhall give ſupply, or furniſh money, victuall, or any commodities to the enemy, upon pain of death.</p>
+               <p>Whoſoever ſhall be found to do violence againſt the Lord Generall, his Safe-guard, or Safe-conduct, ſhall dye for it.</p>
+               <p>Whoſoever ſhall be found guiltie of careleſneſſe and negli<g ref="char:EOLhyphen"/>gence in his ſervice, although he be free of treachery and dou<g ref="char:EOLhyphen"/>ble-dealing, ſhall beare his owne puniſhment.</p>
+            </div>
+            <div n="6" type="article">
+               <head>VI.</head>
+               <p>
+                  <note place="margin">Duties of Superiours.</note>All Commanders and Officers ſhall be carefull, both by their authority and example, that all under their charge, live in godlineſſe, ſoberneſſe, and righteouſneſſe: And if they them<g ref="char:EOLhyphen"/>ſelves ſhall be common ſwearers, curſers, drunkards, or any of them at any time ſhall come drunke to his Guard, or by quarel<g ref="char:EOLhyphen"/>ling, or any other way ſhall commit any notable diſorder in this quarter, loſſe of place ſhall be his puniſhment; And further, ac<g ref="char:EOLhyphen"/>cording to the ſentence of the Court of War.</p>
+               <p>The Captaines that ſhall be negligent in training their Com<g ref="char:EOLhyphen"/>panies, or that ſhall be found to withhold from their ſouldiers any part of their pay, ſhall be diſcharged of their place, and fur<g ref="char:EOLhyphen"/>ther cenſured by the Court of War.</p>
+               <p>No Commander or Officer ſhall conceale dangerous and diſcontented humours, inclined to mutinies, or grudging at the orders given them, but ſhall make them knowne to the prime Leaders of the Army, upon the paine to be accounted guilty of mutiny.</p>
+               <p>No Commander or Officer ſhall authorize, or wittingly per<g ref="char:EOLhyphen"/>mit any Souldier to goe forth to a ſingular combate, under paine of death: But on the contrary, all Officers ſhall be carefull By all meanes to part quarrellings amongſt Souldiers, although they be of other Regiments or Companies, and ſhall have
+<pb n="5" facs="tcp:154546:4"/> power to command them to priſon, which if the Souldiers ſhall diſobey or reſiſt by uſing any weapon, they ſhall die for it.</p>
+               <p>No Captaine ſhall preſume at his owne hand, without war<g ref="char:EOLhyphen"/>rant of the Lord Generall, to caſſeer or give a Paſſe to any en<g ref="char:EOLhyphen"/>rolled Souldier or Officer, who hath appeared at the place of the generall Rendezvous; nor ſhall any Commander, Officer, or Souldier depart without a Paſſe, or ſtay behinde the time ap<g ref="char:EOLhyphen"/>pointed him in his Paſſe; and whoſoever tranſgreſſeth the one way or the other, ſhall be puniſhed at the diſcretion of the Court of War.</p>
+            </div>
+            <div n="7" type="article">
+               <head>VII.</head>
+               <p>All Souldiers ſhall remember that it is their part to honour and obey their Commanders,<note place="margin">Duties of Souldiers.</note> and therefore ſhall receive their commands with reverence, and ſhall make no noiſe, but be ſilent, when the Officers are commanded, or giving their di<g ref="char:EOLhyphen"/>rections, that they may be heard by all, and the better obeyed: he that faileth againſt this, ſhall be impriſoned.</p>
+               <p>No Souldier ſhall leave his Captaine, nor ſervant forſake his Maſter, whether he abide in the Army or not, but upon licence granted, and in an orderly way.</p>
+               <p>Whoſoever ſhall preſume to diſcredit any of the great Offi<g ref="char:EOLhyphen"/>cers of the Army, by Writ, Word, or any other way, and be not able to make it good; &amp; whoſoever ſhall lift his weapon againſt any of them, ſhall be puniſhed by death; and whoſoever ſhall lift his hand againſt any of them, ſhall loſe his hand.</p>
+               <p>No Souldier, not inferiour Officer, ſhall quarrell with, or offer any injury to his ſuperiour, nor refuſe any duty comman<g ref="char:EOLhyphen"/>ded him, upon paine of caſſeering, and to be further cenſured by the Court of War. And if any ſhall preſume to ſtrike his Supe<g ref="char:EOLhyphen"/>riour, he ſhall be puniſhed with death. But if it ſhall happen, that any Officer ſhall command any thing to the evident and knowne prejudice of the publicke, then ſhall he who is com<g ref="char:EOLhyphen"/>manded, modeſtly refuſe to obey, and preſently give notice thereof to the Lord Generall.</p>
+               <p>If any man ſhall uſe any words or wayes, tending to mutiny or ſedition, whether for demanding his pay, or upon any other cauſe; or if any man ſhall be privy to ſuch mutinous ſpeeches or
+<pb n="6" facs="tcp:154546:5"/> wayes, &amp; ſhall conceal them, both ſhall be puniſhed with death.</p>
+               <p>All muſt ſhew their valour againſt the Enemy, and not by revenging their private injuries, which upon their complaints to their ſuperiour Officers, ſhall be repaired to the full. And if any man preſume to take his owne ſatiſfaction, or challenge a combate, he ſhall be impriſoned, and have his puniſhment de<g ref="char:EOLhyphen"/>cerned by the Marſhall Court.</p>
+               <p>The Provoſt-Marſhall muſt not be reſiſted or hindered, in ap<g ref="char:EOLhyphen"/>prehending or putting Delinquents in priſon, and all Officers muſt aſſiſt him to this end; and if any man ſhall reſiſt or breake priſon, he ſhall be cenſured by the Court of War.</p>
+            </div>
+            <div n="8" type="article">
+               <head>VIII.</head>
+               <p>
+                  <note place="margin">Duties to others.</note>Murther is no leſſe unlawfull and intollerable in the time of War, then in the time of Peace, &amp; is to be puniſhed with death.</p>
+               <p>Whoſoever ſhall be found to have forced any woman, whe<g ref="char:EOLhyphen"/>ther he be Commander or Souldier, ſhall die for it without mer<g ref="char:EOLhyphen"/>cy. And whoſoever ſhall be found guilty of adultery or forni<g ref="char:EOLhyphen"/>cation, ſhall be no leſſe ſeverely cenſured and puniſhed then in the time of Peace.</p>
+               <p>If any common whores ſhall be found following the Army, if they be married women, and run away from their husbands, they ſhall be put to death without mercy; and if they be unmar<g ref="char:EOLhyphen"/>ried, they ſhall be firſt married by the hangman, and thereafter by him ſcourged out of the Army.</p>
+               <p>Theeves and Robbers ſhall be puniſhed with the like ſeve<g ref="char:EOLhyphen"/>rity. If any ſhall ſpoile or take any part of their goods that die in the Army, or are killed in ſervice, he ſhall reſtore the double, and be further puniſhed at diſcretion. It is provided, that all their goods be forth-comming, and be diſpoſed of according to their Teſtament and Will, declared by word or writ before witneſ<g ref="char:EOLhyphen"/>ſes; or if they have made no Teſtament, to their Wives, Chil<g ref="char:EOLhyphen"/>dren, or neareſt Kindred, according to the Lawes of the King<g ref="char:EOLhyphen"/>dome.</p>
+               <p>All ſhall live together as friends and brethren, abſtaining from words of diſgrace, contempt, reproach, giving of lies, and all provocation by word or geſture: He that faileth, ſhall be im<g ref="char:EOLhyphen"/>priſoned
+<pb n="7" facs="tcp:154546:5"/> for the firſt fault; and if he be incorrigible, he ſhall be with ſhame puniſhed, and put out of the Army.</p>
+            </div>
+            <div n="9" type="article">
+               <head>IX.</head>
+               <p>All Souldiers ſhall come to their Colours, to watch,<note place="margin">Concerning Armes.</note> to be ex<g ref="char:EOLhyphen"/>erciſed, or to muſter, with their owne Armes: And if any Soul<g ref="char:EOLhyphen"/>dier ſhall come with another mans Armes, he ſhall be puniſhed with rigour, and the lender ſhall loſe his Armes. All ſhall come alſo with compleate and tight Armes in a decent manner, other<g ref="char:EOLhyphen"/>wiſe to be ſeverely puniſhed.</p>
+               <p>If any man ſhall ſell or give in pawne his horſe, his Armes, or any part of the Ammunition committed to him: or any Inſtru<g ref="char:EOLhyphen"/>ments; as Spades, Shovels, Pickes, uſed in the Field, he ſhall for the firſt and ſecond time be beaten through the quarter, and for the third time be puniſhed as for other theft: And he that buyeth them, or taketh them to pawne, be he Souldier or Victualler, ſhall pay the double of the Money, beſide the want of the things bought or impawned, and be further puniſhed at diſcre<g ref="char:EOLhyphen"/>tion.</p>
+               <p>Whoſoever in a debawched and lewd manner by Cards or Dice, or by ſloath and unexcuſable neglect, ſhall loſe his Horſe and Armes, in whole, or in part, to the hinderance of the ſer<g ref="char:EOLhyphen"/>vice; And whoſoever ſhall wilfully ſpoile, or breake his Armes, or any Inſtrument of War committed to him, by cutting downe of Trees, or any other way, he ſhall ſerve as a Pioner, till the leſſe be made up, and he furniſhed upon his owne charges.</p>
+            </div>
+            <div n="10" type="article">
+               <head>X.</head>
+               <p>No man on his march, or at his lodging, within or without the Countrey upon whatſoever pretext, ſhall take by violence,<note place="margin">Concerning marching.</note> ei<g ref="char:EOLhyphen"/>ther horſe, cattell, goods, money, or any other thing leſſe or more, but ſhall pay the uſuall prices for his meat and drinke, or be fur<g ref="char:EOLhyphen"/>niſhed in an orderly way upon count, at the ſight of the Com<g ref="char:EOLhyphen"/>miſſar, according to the order given by the committee upon paine of death, without mercy.</p>
+               <p>If any man ſhall preſume to pull downe, or ſet on fire any dwelling houſe, though a Cottage, or hew downe any Fruit-trees;
+<pb n="8" facs="tcp:154546:6"/> or to waſte or deface any part of the beauty of the Coun<g ref="char:EOLhyphen"/>trey, he ſhall be puniſhed moſt ſeverely, according to the impor<g ref="char:EOLhyphen"/>tance of the fault.</p>
+               <p>In marching, no man ſhall ſtay behinde without leave: No man ſhall ſtraggle from his Troop or Company: No man ſhall march out of his ranke, and put others out of order, under all higheſt paine.</p>
+            </div>
+            <div n="11" type="article">
+               <head>XI.</head>
+               <p>
+                  <note place="margin">Of muſters.</note>If any Colonell of Horſe or Foot ſhall keep backe his Souldi<g ref="char:EOLhyphen"/>ers from the appointed muſters, or ſhall lend his Souldiers to make a falſe muſter, upon triall in the Court Marſhall, he ſhall be puniſhed as a deceiver. And if any Muſter-maſter ſhall uſe any falſe Rols, ſhall have any hand in falſe Muſters, or by conni<g ref="char:EOLhyphen"/>vence, or any other way be tryed to be acceſſary to them, he ſhall ſuffer the like puniſhment.</p>
+            </div>
+            <div n="12" type="article">
+               <head>XII.</head>
+               <p>
+                  <note place="margin">Victuallers.</note>No man ſhall preſume to doe the ſmalleſt injury to any that bring neceſſaries to the Leager, whether by ſtealing from them, or deceiving them, or by violence in taking their Horſe or goods, under the paine to be accounted and puniſhed as ene<g ref="char:EOLhyphen"/>mies. No Victuallers ſhall ſell rotten victuals, upon paine of im<g ref="char:EOLhyphen"/>priſonment and confiſcation, and further as they ſhall be judged to deſerve.</p>
+               <p>No Souldier ſhall provide and ſell Victuals, unleſſe he be au<g ref="char:EOLhyphen"/>thorized, nor ſhall any that ſelleth Victuals, keep in his Tent or Hutte any Souldier at unſeaſonable houres, and forbidden times, under paine at diſcretion; Like as all the prices thereof ſhall be ſet downe by the generall Commiſſer, and be given to the Quarter-Maſter of the ſeverall Regiments.</p>
+            </div>
+            <div n="13" type="article">
+               <head>XIII.</head>
+               <p>
+                  <note place="margin">Duties in the Camp.</note>No man enrolled profeſſing himſelfe or pretending to be a Souldier, ſhall abide in the Army, unleſſe hee enter in ſome Company, nor ſhall he that hath entred depart without licence, upon paine of death. No man having licence ſhall ſtay beyond the time appoynted him, upon paine of the loſſe of his pay du<g ref="char:EOLhyphen"/>ring the time of his abſence, and further puniſhment at diſcre<g ref="char:EOLhyphen"/>tion.
+<pb n="9" facs="tcp:154546:6"/> If any man in a mutinous way, ſhew himſelfe diſcontent with the quarter aſſigned him, hee ſhall be puniſhed as a muti<g ref="char:EOLhyphen"/>ner. And if any man ſhall ſtay out of his quarter, or go without ſhot of Cannon being intrenched, but one night, without leave of his ſuperiour Officer, he ſhall be caſſeered.</p>
+               <p>All that ſhall be abſent from the watch after the ſigne is gi<g ref="char:EOLhyphen"/>ven for the ſetting therof, ſhall be ſeverely puniſhed. Hee that revealeth, or falſifieth the watch-word given by the Officer, within the Trenches, or before the Colours: He that is taken ſleeping, or drunk upon his watch: Hee that commeth off the watch before the time, every one of thoſe ſhall bee puniſhed with death.</p>
+               <p>Whoſoever ſhall aſſemble themſelves together for taking mutinous counſell, upon whatſoever pretext; they all, whe<g ref="char:EOLhyphen"/>ther Officers or Souldiers, ſhall ſuffer death.</p>
+            </div>
+            <div n="14" type="article">
+               <head>XIV.</head>
+               <p>Every man when the Alarme is given,<note place="margin">Duties in Battell.</note> ſhall repaire ſpeedily to his Colours; no man ſhall forſake or flee from his Colours.</p>
+               <p>No man in the Countrey ſhall reſet them that ſlee.</p>
+               <p>No man in the battell ſhall throw away his Musket, Pike, or Bandilier, all under the paine of death.</p>
+               <p>Whatſoever Regiment of Horſe or Foot, having charged the enemy, ſhall draw back or flee before they come to ſtroke of ſword, ſhall anſwer for it before a Councell of war; and whoſoever Officer or Souldier ſhall be found to bee in the de<g ref="char:EOLhyphen"/>fault, they ſhall be puniſhed by death or ſome ſhamefull puniſh<g ref="char:EOLhyphen"/>ment, as the Councell of war ſhall find their cowardiſe to de<g ref="char:EOLhyphen"/>ſerve.</p>
+            </div>
+            <div n="15" type="article">
+               <head>XV.</head>
+               <p>If it ſhall come to paſſe,<note place="margin">Duties after Battell.</note> that the enemy ſhall force us to bat<g ref="char:EOLhyphen"/>tell, and the Lord ſhall give us victorie, none ſhall kill a yeel<g ref="char:EOLhyphen"/>ding enemy, nor ſave him that ſtill purſueth, upon paine of death. Neither ſhall there be any ranſoming of perſons, ſpoy<g ref="char:EOLhyphen"/>ling, pillaging, parting of the prey, or waſting and burning by fire, or disbanding from their charges, or Officers, but as the Lord Generall ſhall give order upon the ſame pain of death.</p>
+            </div>
+            <div n="16" type="article">
+               <pb n="10" facs="tcp:154546:7"/>
+               <head>XVI.</head>
+               <p>
+                  <note place="margin">Rewards for the well-deſerving.</note>Every mans carriage ſhall be diligently obſerved, and he ac<g ref="char:EOLhyphen"/>cording to his merit rewarded or puniſhed: And whatſoever Officer or Souldier ſhall take Commanders, or the Colours of the enemy, or in the ſiege of Townes ſhall firſt enter a breach, or ſcale the wals, and ſhall carry himſelfe dutifully in his ſtati<g ref="char:EOLhyphen"/>on, and doth his part valiantly, in skirmiſh or battell, ſhall after the laudable example of the wiſeſt, and worthieſt Kingdomes and Eſtates, have his honour and reward according to his worth and deſerving, whether hereafter we have peace or war.</p>
+               <p>Matters that are cleare by the light and law of nature are preſuppoſed: Things unneceſſary, are paſt over in ſilence: and other things may be judged by the common cuſtomes and conſtitu<g ref="char:EOLhyphen"/>tions of war, or may upon new emer<g ref="char:EOLhyphen"/>gents, be expreſſed afterward.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
